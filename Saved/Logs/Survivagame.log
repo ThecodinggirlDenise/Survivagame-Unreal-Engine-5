@@ -1275,3 +1275,30 @@ LogInit: Object subsystem initialized
 [2024.05.05-22.27.39:371][216]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/FirstPerson/Input/Actions/IA_Look.IA_Look
 [2024.05.05-22.27.40:869][302]LogViewport: Scene viewport resized to 989x508, mode Windowed.
 [2024.05.05-23.23.50:865][997]LogDerivedDataCache: C:/Users/Deniz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3556 files in 4637 folders with total size 488 MiB.
+[2024.05.05-23.57.41:426][470]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2024.05.05-23.57.41:426][470]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2024.05.05-23.57.44:463][630]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.05.05-23.58.13:726][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:749][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:771][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:795][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:817][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:841][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:865][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:888][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:910][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:933][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:956][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.13:980][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.14:003][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.14:026][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.14:049][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.14:071][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.14:094][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.14:117][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.14:140][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.14:162][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.14:185][711]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.14:242][712]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.05-23.58.18:086][943]LogSlate: Window 'View Changes' being destroyed
+[2024.05.05-23.58.18:090][943]LogSlate: Window 'View Changes' being destroyed
