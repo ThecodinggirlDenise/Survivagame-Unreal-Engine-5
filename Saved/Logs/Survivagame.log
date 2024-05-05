@@ -1274,3 +1274,4 @@ LogInit: Object subsystem initialized
 [2024.05.05-22.25.12:880][443]LogFileHelpers: Auto-saving content packages took 0.058
 [2024.05.05-22.27.39:371][216]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/FirstPerson/Input/Actions/IA_Look.IA_Look
 [2024.05.05-22.27.40:869][302]LogViewport: Scene viewport resized to 989x508, mode Windowed.
+[2024.05.05-23.23.50:865][997]LogDerivedDataCache: C:/Users/Deniz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3556 files in 4637 folders with total size 488 MiB.
