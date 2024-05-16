@@ -67,7 +67,7 @@ Ensure you have Unreal Engine installed. It's best to use the same version of Un
 
 ### Resolve Dependencies:
 1. When you open the project in Unreal Engine, it will automatically resolve dependencies and import assets.
-2. If the project uses specific plugins, Unreal Engine may prompt you to install them. Follow any prompts to install necessary plugins.
+
 
 ### Build the Game:
 1. Once the project is fully loaded, go to `File > Package Project`.
